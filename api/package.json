@@ -1,0 +1,17 @@
+{
+  "name": "deloitte-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/user-interface.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Daksh Verma",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^9.1.3"
+  }
+}
